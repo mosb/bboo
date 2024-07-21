@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "maosboo"
-description: "your nose begins to bleed."
+title: ""
+description: ""
 meta_description: "maosboo"
 meta_title: maosboo
 subscribe: false
 
 
 posts:
-  heading: "Recent Posts"
+  heading: "Stories"
   sub_heading: ""
   limit: 8
   sort: date # date | weight

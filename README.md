@@ -1,3 +1,5 @@
+This site is deployed via netlify from github. 
+
 # Jekyll Curate Premium Theme
 
 Jekyll Curate is a premium portfolio theme for Jekyll.
