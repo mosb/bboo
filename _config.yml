@@ -97,6 +97,7 @@ colors:
   logo_text_dark: "#fdfcf9"
   header_text_dark: "#fdfcf9"
 
+# Using adobe typekit, as per header.html
 fonts:
   use_google_fonts: false
   google_fonts_url: "https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,500;9..40,700&family=Fira+Mono&display=swap"
