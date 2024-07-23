@@ -1,9 +1,9 @@
 @charset "UTF-8";
 :root {
-  --font-family-base: "stevie sans", sans-serif;
-  --font-family-heading: "stevie sans", sans-serif;
+  --font-family-base: "stevie-sans", sans-serif;
+  --font-family-heading: "stevie-sans", sans-serif;
   --font-family-monospace: "Fira Mono", monospace;
-  --font-family-logo: "stevie sans", sans-serif;
+  --font-family-logo: "stevie-sans", sans-serif;
   --color-primary-bg: #0d042b;
   --color-primary-bg-2: #0d042b;
   --color-primary-bg-3: #0d042b;
@@ -16,7 +16,7 @@
   --color-header-text: #0d042b;
   --logo-text-font-size: 28px;
   --logo-text-font-weight: 500;
-  --menu-font-family: "stevie sans", sans-serif;
+  --menu-font-family: "stevie-sans", sans-serif;
   --menu-font-size: ;
   --menu-text-transform: "Capitalize";
   --menu-font-weight: 400;
