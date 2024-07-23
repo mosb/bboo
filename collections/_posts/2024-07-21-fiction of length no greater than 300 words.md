@@ -3,7 +3,7 @@ layout: post
 title: "Fiction of length no greater than 300 words"
 date: 2024-07-21
 authors: ["maosboo"]
-description: ""
+description: "300 words (2024)"
 categories: []
 thumbnail: ""
 image: ""
