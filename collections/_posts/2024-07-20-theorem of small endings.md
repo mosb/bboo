@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Theorem of Small Endings"
+title: "The theorem of small endings"
 date: 2024-07-20
 authors: ["maosboo"]
 description: "300 words (2024)"
