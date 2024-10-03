@@ -128,8 +128,8 @@ header:
 open_graph:
   meta_opengraph_type: "website"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@maosboo"
-  meta_twitter_creator: "@maosboo"
+  meta_twitter_site: ""
+  meta_twitter_creator: ""
 
 darkmode:
   enable_dark_mode: true
